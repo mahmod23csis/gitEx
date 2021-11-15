@@ -1,0 +1,16 @@
+AUTHOR: MAHMOD AHMAD
+ASSIGNMENT: 4
+
+This prgram tests the class functions and constructors in the main program. It also checks to see if the operators defined in the class is doing its job correctly by comparing
+different numbers.
+The main purpose of this program is to test the setters and getters.
+
+The files included in this directory for this program to run are:
+- horsePower.cpp
+- horsePower.h
+- main.cpp
+- makefile
+
+TO RUN THIS PROGRAM:
+1. type "make"
+2. then "prog4"
